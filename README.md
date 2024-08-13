@@ -7,5 +7,5 @@ Displays time in hours, minutes, and seconds format
 Simple and intuitive user interface
 Built using HTML, CSS, and JavaScript for a lightweight and fast experience
 
-![Screenshot 2024-08-13 205343](https://github.com/user-attachments/assets/913073a8-a33a-4c45-b105-6b22d39e09e1)
+![Screenshot 2024-08-13 205343](https://github.com/user-attachments/assets/913073a8-a33a-4c45-b105-6b22d39e09e1) 
 
